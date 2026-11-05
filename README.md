@@ -20,11 +20,5 @@
 ### 🛠️ Tech Stack & Tools
 [![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,git,vscode&theme=dark)](https://skillicons.dev)
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nithila8417-oss&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithila8417-oss&layout=compact&theme=radical&hide_border=true" />
-</p>
-
 ---
 <p align="center">⭐️ Feel free to check out my repositories and connect with me!</p>
