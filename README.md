@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Nithila Saravanan</h1>
+<h3 align="center">An aspiring software developer passionate about building and learning</h3>
 
-<!--
-**nithila8417-oss/nithila8417-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://linkedin.com/in/nithila-saravanan-25266542b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+  <a href="https://leetcode.com/SNithila" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Profile"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 About Me
+- 🌱 I’m currently learning and expanding my core software engineering and problem-solving skills.
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects and developer tools.
+- ⚡ Fun fact: I love tackling logic puzzles and optimizing code!
+
+### 🛠️ Tech Stack & Tools
+[![Languages](https://skillicons.dev/icons?i=cpp,python,java,js,html,css,git,vscode&theme=dark)](https://skillicons.dev)
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=nithila8417-oss&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nithila8417-oss&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+<p align="center">⭐️ Feel free to check out my repositories and connect with me!</p>
